@@ -15,6 +15,6 @@ margin-left: calc((100% - 800px) / 2);
 .right-column:last-of-type {
 width: 60%;
 float: left;
-background-color: orangered;
+background-color: rgb(111, 0, 255);
 
 }
