@@ -73,14 +73,14 @@ form > .form-row > input {
 }
 form > .form-row > button {
     float: left;
-    padding: 5px;
-    padding-left: 25px; 
-    padding-right: 25px;
-    font-size: 16px;
+    padding: 8px;
+    padding-left: 35px; 
+    padding-right: 35px;
+    font-size: 18px;
     font-weight: bold;
     line-height: 20px;
     border: none;
-    border-radius: 15px;
+    border-radius: 20px;
     background-color: #015cda;
     color: white;
     cursor: pointer;
