@@ -49,7 +49,7 @@ right: 0;
 }
 
 .close:hover {
-    background-color: red;
+    color: red;
     cursor: pointer;
 }
 
